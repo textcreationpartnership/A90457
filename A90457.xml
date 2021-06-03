@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect and particuler relation of the severall marches and proceedings of the Armie in Ireland, from the taking of Drogheda, to this present. The taking of Killencarrick, Athloe, Lymerick, Fernes, Enescorthy, the particulers fully of the taking of Wexford, with severall other passages and the Armyes advance to Rosse.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90457</idno><idno type="EEBO-CITATION">99865520</idno>
+  <idno type="VID">165460</idno>
+  <idno type="EEBO-PROQUEST">2240921811</idno>
+  
+            <idno type="STC">Wing P1471</idno>
+            <idno type="STC">Thomason E575_39</idno>
+            <idno type="STC">ESTC R206357</idno>
+            <idno type="PROQUEST">99865520</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865520e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165460)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect and particuler relation of the severall marches and proceedings of the Armie in Ireland, from the taking of Drogheda, to this present. The taking of Killencarrick, Athloe, Lymerick, Fernes, Enescorthy, the particulers fully of the taking of Wexford, with severall other passages and the Armyes advance to Rosse.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Domini 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165460:1"/>
+            <p>A perfect and particuler RELATION Of the severall Marches and proceedings of the ARMIE IN IRELAND, From the taking of <hi>DROGHEDA,</hi> to this present</p>
+            <list>
+               <label>The taking of</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Killenc<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ick,</hi>
+                     </item>
+                     <item>
+                        <hi>Athl<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e,</hi>
+                     </item>
+                     <item>
+                        <hi>Lymerick,</hi>
+                     </item>
+                     <item>
+                        <hi>Fernes,</hi>
+                     </item>
+                     <item>
+                        <hi>Enescorthy,</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>The particulers fully of the taking of <hi>Wex<g ref="char:EOLhyphen"/>ford,</hi> with severall other passages, and the Armyes advance to <hi>Rosse.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Leach, Anno Domini</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="correspondence">
+            <pb facs="tcp:165460:2"/>
+            <pb n="3" facs="tcp:165460:2"/>
+            <head>A perfect and particuler Relation, of the severall marches and proceedings of the <hi>Armies</hi> in <hi>Ireland</hi> from the taking of <hi>DROGHEDA</hi> to this present.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">Y</seg>Ours I received at <hi>Dublin</hi> a little before we took our march, after our taking of <hi>Drogheda</hi> unto this place; And now having some more news, even the mercies of God towards us, to impart unto you, I re-salute you, and give you this accompt of transactions here.</p>
+                  <p>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Thursday</hi> the 27th. of <hi>September</hi> wee marcht out of <hi>Dublin,</hi> some part of the Army for expedition sake. being march'd before: In our passage hither, severall Castles held by the Enemy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ell in unto us. The first was <hi>Killencarick,</hi> which was quitted by the enemy, having heard of our intentions to march that way. On <hi>Friday</hi> the 28th. we came to <hi>Athloe,</hi> scituate upon the Sea, and they had fired that, and quitted it. So likewise on Saterday the 29th. wee passed through <hi>Limmerick;</hi> which they had fired, and left: that night a party was sent to <hi>Fernes,</hi> which was surrendred upon Termes, that they should march away, only leaving all their Armes, Ammunition, and Pro<g ref="char:EOLhyphen"/>visions behind them. On Sunday the 30th. wee came to <hi>Enescorthy,</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> very fine strong Castle, belonging to Mr. <hi>Wallop</hi> of <hi>Huntshire,</hi> but Garrison'd by the enemy; This was surrendred to us on the same termes as the former. Having cleared all before us, We came on Thursday the second of this in<g ref="char:EOLhyphen"/>stant <hi>October</hi> and encamped before <hi>Wexford.</hi> Two or three dayes before we came hither, the enemy from <hi>Kilke<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y</hi> had sent some Regiments of Foot into the Town for its strength, and security, O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> VVednesday my Lord sent in this summons.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:165460:3"/>
+                  <p>Sir, Having brought the Army belonging to the Parliament of <hi>England</hi> before this place to reduce it to its due obedience; to the end effusion of blood may be prevented, and this owne and country about it preserved from ruine, I thought fit to summon you to deliver the same into my hands to the use of the State of <hi>England;</hi> By this offer, I hope it will cleerly ap<g ref="char:EOLhyphen"/>peare▪ where the guilt will lye, if innocent persons should come to suffer with the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nocent. I expect your speedy answer, and rest.</p>
+                  <closer>
+                     <dateline>
+                        <date>October the 3d. 1649.</date>
+                     </dateline>
+                     <salute>Sir</salute>
+                     <signed>Your Servant O. CROMWELL.</signed>
+                  </closer>
+                  <trailer>For the Commander in chiefe within the Town of <hi>Wexfo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Whereunto this Answer was returned.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir;</salute>
+                  </opener>
+                  <p> I Have received your Letter of summons for the delivery up of this Town into your hands, which stand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th not with my honour to doe of my selfe: neither will I take it upon me, without the advice of the rest of my Officers, and the Mayor of this Corporation; (this town being of so great consequence to all <hi>Ireland,</hi>) whom I will call together, and conferre with, and return my resolution un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o you to morrow by 12. of the clock: in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he mean time▪ if you be so pleased, I am content to forbear all acts of hostility▪ so you permit no approa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h to be made: expecting your answer in that ar<g ref="char:EOLhyphen"/>ticular I remain,</p>
+                  <closer>
+                     <salute>My Lord,</salute>
+                     <signed>Your Lordships Servant Da. Sinnot.</signed>
+                  </closer>
+                  <trailer>For the Lord General <hi>Cromwell,</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi> My Lord returned this Answer.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I have received your resolutions to return your answer by 12 of the clock to morrow morning, which I agree unto, but for your other part of your letter to forbear all acts of hostility, I consider, that your houses are better then our Tents, and so shall not consent unto that, I rest, </p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>Your servant, <hi>O. CROMWELL,</hi>
+                     </signed>
+                  </closer>
+                  <trailer>For the Commander in chief in <hi>Wexford,</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>The Mayor and A dermen were so courteou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that in the intervall before they return'd their posi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive answer, they sent my Lord a present o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sacke, strong waters and strong beer.</p>
+            <p>On <hi>Thursday</hi> the 4 of this instant, about 12 of the clock, this paper was sent out of the towne.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I have advised with the Mayor and Officers as I promised, and there<g ref="char:EOLhyphen"/>upon am content; that foure whom I shall imploy may have a conference, and treaty with foure of yours, to see, if any ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eement, and understan<g ref="char:EOLhyphen"/>ding may be begot between us: To this purpose, I desire you to send mine a safe conduct, as I do hereby promise to send unto yours, when you send
+<pb n="5" facs="tcp:165460:3"/> me their names; And I pray, that the meeting may be had to morrow at eight of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ock in the forenoone, that they may have sufficient time to conferre, and debate tog<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>her, and determine, and compose the matter, and that the meeting, and place may be agreed upon, and the safe conducts <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>tually▪ sent for the said meeting this afternoone, expecting your Answer hereto, I rest,</p>
+                  <closer>
+                     <salute>My Lord, </salute>
+                     <dateline>Wexford <date>October 4 1649.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your Servant.</hi>Da. Sinnot.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Send me the names of your Agents, their qualities, and degrees, Those I fix upon are Maior Iames Byrne, Maior Theobald, Dillon, Alderman Nicholas Cheevers, Mr. William Stafford,</hi>
+                     </p>
+                  </postscript>
+                  <trailer>For the Lord Generall Cromwell these.</trailer>
+               </body>
+            </floatingText>
+            <p>Hereunto my Lord replyed thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>Having summoned you to del<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ver the town of <hi>We<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ford</hi> into my hands, I might well expect the delivery thereof, and not the desire of a for<g ref="char:EOLhyphen"/>mall▪ Treaty, which is seldome granted, but whe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the things stand upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> more equall foot. If therefore your selfe, or the town have any desires to off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, upon which you will surrender the place to me, <hi>I</hi> shall be able to judge of the reasonablenesse of them when they are made knowne to mee: To which end if you shall think <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t to send persons named in your last, intrusted by your selfe, and the towne, by whom I may understand your desires, I shall give you a speedy, and fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting answer. And I do hereby ingage my selfe, that they shall return in safety to you, I expect your Answer hereun<g ref="char:EOLhyphen"/>to within an houre, and rest,</p>
+                  <closer>
+                     <signed>Your Servant O. Cromwell</signed>
+                     <dateline>
+                        <date>October <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> h. 1649.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>To the Commander in Chiefe in Wexford these.</trailer>
+               </body>
+            </floatingText>
+            <p>This begat this further reply.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I have return'd you a civil Answer to the best of my judgement, and thereby I finde you undervalue mee, and the place so much, as you think to have it surrendred without capitulation, or honourable termes, as appears by your hours limitation in your last, Sir, had J never a man in this towne, but the townsmen▪ and Artillery here planted, I should conceive my selfe in a very b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fitting condition to make honourable conditions, and having a considerable party with them in the place, J am resolved to dye honourably or make such conditions▪ as may secure my honour, and life in the eyes of my owne party, to which reasonable termes, if you hearken not, or give me time to send my Agents, till eight of the clock in the forenoone to mor<g ref="char:EOLhyphen"/>row with my Propositions▪ with a further safe conduct, J leave you to your
+<pb n="6" facs="tcp:165460:4"/> better judgement, and my selfe to the assistance of the Almighty, and so con<g ref="char:EOLhyphen"/>clude</p>
+                  <closer>
+                     <signed>Your Servant Da. Sinnot.</signed>
+                     <dateline>Wexford, <date>October the 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h. 1649.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Lord Generall Cromwell these.</trailer>
+               </body>
+            </floatingText>
+            <p>My Lord return'd no answer to this Letter, but the Governour of <hi>Wex<g ref="char:EOLhyphen"/>ford</hi> the day following sent this ensuing overture,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>My Proposi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions being now prepared, I am ready to send my Agents with them unto you▪ and for their safe return, I pray you to send conduct by this bearer unto me, in hope an honourable agreement may thereupon a<g ref="char:EOLhyphen"/>rise between your Lordship, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</p>
+                  <closer>
+                     <salute>My Lord, </salute>
+                     <signed>Your Lordships servant, Da. Sinnot.</signed>
+                     <dateline>Wexford, <date>October the 5. 1649.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Lord Gen. <hi>Cromwell</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>According to the contents of this last Letter, my Lord sent a permit unto him for his Agents to come, and return safely, but the Governours minde was altered before the morrow, and it was occasioned by the comming in unto him of two fresh Regiments sent by the Lord of <hi>Castle-haven;</hi> For on Saturday the 6. of this instant there came relief into the Town on the o<g ref="char:EOLhyphen"/>ther side the water, which we had no notice of, neither if we had, could we have prevented it▪ and thereupon the Governour sent out this excusall, for the non sending of his agents according to his promise and per<g ref="char:EOLhyphen"/>mit.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>Even as <hi>I</hi> was ready to send out my agents unto you, the L. Generall of the horse came hither with relief; unto whom <hi>I</hi> communicated the proceedings between your Lordship and me, &amp; delivered him the pro<g ref="char:EOLhyphen"/>positions, J intended to dispatch unto your Lordship, who hath desired a small time to consider of them, and to speed them unto me; which, my Lord <hi>I</hi> could not deny, he having a commanding power over me. Pray my Lord, believe, that <hi>I</hi> do not doe this to tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fle out time, but for his present content; and if <hi>I</hi> find any long delay in his Lordships returning them back unto me, <hi>I</hi> will proceed of my self according to my first intention: To which <hi>I</hi> beseech your Lordship give cr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dit at the request, My Lord, of</p>
+                  <closer>
+                     <dateline>Wexford <date>October 6. 1649.</date>
+                     </dateline>
+                     <signed>Your Lordships ready servant, Da. Sinnot.</signed>
+                  </closer>
+                  <trailer>For the Lord Gen. <hi>Cromwell</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Hereunto my Lord gave this reply,</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>You might have spared your trouble in the account you give me of your transaction with the Lord Generall of your horse, and of your reso<g ref="char:EOLhyphen"/>lutions in case he answer not your expectations in point of time. These are your own concernments▪ and it behooves you to improve them, and the re<g ref="char:EOLhyphen"/>lief
+<pb n="7" facs="tcp:165460:4"/> ye mention, to your best advantage▪ all that <hi>I</hi> have to say, is to desire you to take notice, that <hi>I</hi> do hereby revoke my safe conduct from the per<g ref="char:EOLhyphen"/>sons mentioned therein. When ye shall see cause to treat, you may send for another. <hi>I</hi> rest,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>Your Servant, O. CROMWELL.</signed>
+                     <dateline>
+                        <date>October the 6th. 1649.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Commander in chiefe in <hi>Wexford,</hi> these.</trailer>
+               </body>
+            </floatingText>
+            <p>Hereupon the messages between my Lord and the governour ceased, and we prepared for Batteries, after consultation had, it was resolved, that all our Batteries should be raised against the Cast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e on the Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h end of the town that being the strongest part, it would easily command all the town if once taken, and the rest would fall with it. The Wall of the Town is very strong, being rampier'd with earth very thick, we had now possession of the Fort that lies upon the entrance into the bay, and commands the pass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, For when we sent a party towards it the enemy had quitted it before, This was of great advantage to us, for our ships thereby <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome into the bay and land provisions more conveniently unto us.</p>
+            <p>On Munday the 9th. of this instant, News came to us that <hi>Ormond</hi> with his whole Army was come over the River on this side <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse</hi> for the reliefe of this town whereupon we sent a party of 15. Troops of horse, and three Troops of Dragoones under Leiutenant Generall <hi>Iones</hi> to meet them, and fight with them. <hi>Ormond</hi> hearing of the march of our men kept no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on his way, but wheeling about, he drew off towards <hi>Kilkenny▪</hi> On Thursday the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1th▪ of this instant, all things being ready, our Canon played against the Castle, and we prepared to storme. The Ordnance played their parts very handsomly, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oone the battlements of the Castle were beaten down, &amp; three great breaches were <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade in 2 of the Towers great seare, &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mazement self upon the hearts of the inhabitants of the towns, the Go<g ref="char:EOLhyphen"/>vernour sent a Dru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ and beat a parley, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ajor and some of the Alder<g ref="char:EOLhyphen"/>men came with Propositions for a surrender. The Governour of the Castle came out, and submitted to my Lords mercy, and gave him the possession of the Castle▪</p>
+            <p>My Lord being willing to save the Inhabitants of the Town, and to pre<g ref="char:EOLhyphen"/>serve it from plunder, condiscended to let the soldiery repair every one to their own homes, they engaging not to bear arms any more against the state of <hi>England;</hi> And the Officers were to have their lives, but to render them<g ref="char:EOLhyphen"/>selves Prisoners. Just as my Lord was ready to sign this▪ and send it into the Town, such a fear fell upon them, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the souldiers left the Wall, and all both men, women, Officers, and Souldiers endeavoured to betake themselvs to fly over the water in Boats, for the safety of their lives. Our men saw this
+<pb n="8" facs="tcp:165460:5"/> and presently scaled the walls to stop them in their intended fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght; They did not find very much opposition▪ but in lesse then the space of an hour the whole town was clee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d and gain'd. There was a wonderfull providence seen in it. That when they were even on the brink to have condi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, it should be so marvello<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly denyed them. The hand of God was mightily in it; this town which was a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eace of pyracy, and the ruine of many familyes in England, was thus justly met with, we may read much of God in the whole carriage of this businesse; yes, even his righteous anger against this place, two things were very remarkable, The one was, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat when the Eng<g ref="char:EOLhyphen"/>lish in the beginning of this Rebellio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fled hither out of the Countrys for protection they sent many of them to shipboard, and there they were drow<g ref="char:EOLunhyphen"/>ned; even in the fame waters many of these now through hast sank, and pe<g ref="char:EOLhyphen"/>rished: The other was, That some preists and Friers were now killed in that Church, where they had caused many of the English to be fam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shed to death, Thus the Lord has fou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d out their wickednesse, and repayed it, ma<g ref="char:EOLhyphen"/>ny escaped over the water, and carried some goods along with them. Our soldiers had the plunder of the Town for the space of two hours, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en my Lord caused a Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lamation to be published, That all further violence, and plunder should cease upon perill. The rest of the goods that were saved together with the ships are to be valued for the State, wee lost not one man in the storm, and not above 3 or 4. were wounded, our Souldiers kil<g ref="char:EOLhyphen"/>led many, both in the town, and as they fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d out of the Town on the W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st side, a great Slaughter was made, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n any were drowned, as they thought to escape by Boat over the water, Some are taken Prisoners; one Col<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Lieut. Col. five Cap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames, six Leiutenants, four E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>signes, three Serjeants, One hundred fourescore and fifteen Soldiers, fourescore and fifteen whereof are taken to be Pioneers in our Army, thus has the Lord been pleased to give this strong place into our hands, <hi>Blessed be his name for ever.</hi>
+            </p>
+            <p>Wee are now gone to <hi>Rosse,</hi> The Lord has done great things for us beyond our thoughts, great mercies in the North, very high successes there and now he has enlarged our borders towards the South, The Lord keep us humble, and his presence be wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h us still.</p>
+            <p>A present supply of more foot would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hly advantagious, for many garrisons do swallow up our infantry. Let us have your prayers, and blesse <hi>God</hi> for what he has already done.</p>
+            <closer>
+               <dateline>
+                  <date>October 22 1649</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>October 27. 1649.</p>
+            <p>Imprimatur, Jo. RUSHVVORTH.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
